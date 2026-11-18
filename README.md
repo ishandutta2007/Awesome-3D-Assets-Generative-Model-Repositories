@@ -175,3 +175,12 @@ A curated list of top open-source tools, self-hosted broadcasting/streaming solu
 
 
 Contributions are welcome! Please feel free to submit a Pull Request to add more open-source pixel art tools, sprite animation engines, or broadcasting utilities.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+  </picture>
+</a>
