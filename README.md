@@ -128,3 +128,12 @@ Star the repo if you find it useful!
 
 **Made for 3D artists, game developers, generative AI researchers, and technical artists.**  
 Let's make 3D asset libraries and generative 3D modeling more open, reproducible, and accessible.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+  </picture>
+</a>
