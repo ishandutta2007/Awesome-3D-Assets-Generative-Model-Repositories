@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -64,9 +64,9 @@ The following table benchmarks leading hosted 3D asset marketplaces, cloud repos
 
 ## 🚀 Open-Source GitHub Repositories
 
-The following open-source projects provide cutting-edge 3D diffusion weights, Gaussian splatting renderers, neural reconstruction tools, and self-hosted model registries. Repositories are sorted in descending order by GitHub star count and feature live stargazer badges.
+The following open-source projects provide cutting-edge 3D diffusion weights, Gaussian splatting renderers, neural reconstruction tools, and self-hosted model registries. Repositories are sorted in descending order by GitHub Stars_Count and feature live stargazer badges.
 
-| Repository | Stars | Description | Focus Area |
+| Repository | GitHub_Stars | Description | Focus Area |
 | :--- | :--- | :--- | :--- |
 | **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** | [![Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers) | Original reference codebase for real-time 3D radiance field rendering with 3D Gaussian Splatting (`3DGS`). | Neural Radiance & 3DGS |
 | **[Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** | [![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2/stargazers) | High-resolution 3D asset generation combining flow-based shape diffusion (`DiT`) with high-resolution PBR texture painting. | Text/Image-to-3D Synthesis |
@@ -98,7 +98,7 @@ We welcome additions, fixes, and ecosystem updates from creators, AI researchers
 2. 🌿 Create a new branch (`git checkout -b add/new-3d-model-repo`).
 3. 📝 Add your tool, platform, or open-source repository following the table layout:
    * **SaaS**: Include product name, URL, brief description, estimated company valuation/size, starting price tier, and specific free tier limits.
-   * **Open-Source**: Include GitHub repository link, star badge (`style=social&color=white` linking to `/stargazers`), description, and core focus area.
+   * **Open-Source**: Include GitHub repository link, Stars_Badge (`style=social&color=white` linking to `/stargazers`), description, and core focus area.
 4. 🚀 Push your branch and open a Pull Request with a short explanation.
 
 ---
@@ -122,3 +122,12 @@ Thank you for exploring and utilizing the **Awesome 3D Assets & Generative Model
 
 ##  Star History
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-3D-Assets-Generative-Model-Repositories&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-3D-Assets-Generative-Model-Repositories_growth.svg">
+  </picture>
+</a>
