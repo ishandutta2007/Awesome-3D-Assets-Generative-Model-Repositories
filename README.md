@@ -2,7 +2,7 @@
 
 # Awesome-3D-Assets-Generative-Model-Repositories
 
-# Top 3D Assets & Generative Model Repositories Ecosystem
+## Top 3D Assets & Generative Model Repositories Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on 3D Model Marketplaces, CC0 Asset Libraries, Generative Text/Image-to-3D Diffusion Models & Local 3D Asset Pipelines*  
